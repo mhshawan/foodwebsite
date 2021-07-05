@@ -164,6 +164,9 @@ footer{
     background: black;
     padding: 1px 0;
 }
+footer h1 span{
+    color: skyblue;
+}
 
 footer h1{
     text-align: center;
